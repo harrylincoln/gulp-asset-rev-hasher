@@ -1,0 +1,32 @@
+{
+  "name": "gulp-asset-rev-hasher",
+  "version": "0.0.13",
+  "description": "Appends a file's hash to a file URL to cache assets in any file (html, templates). Forked from gulp-asset-rev-hash",
+  "main": "index.js",
+  "dependencies": {
+    "gulp-util": "~2.2.14",
+    "through2": "~0.4.1"
+  },
+  "devDependencies": {
+    "gulp": "~3.5.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/harrylincoln/gulp-asset-rev-hasher.git"
+  },
+  "keywords": [
+    "gulpplugin",
+    "js",
+    "javascript",
+    "asset",
+    "caching",
+    "rev",
+    "md5",
+    "hash"
+  ],
+  "author": "Harry Lincoln <harrylincoln0612@gmail.com>",
+  "license": "MIT",
+  "engines": {
+    "node": ">=0.8"
+  }
+}
